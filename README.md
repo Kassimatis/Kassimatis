@@ -8,7 +8,7 @@
 
 #### Welcome to my GitHub! 👋
 
-##### In addition to my legal journey, I am passionate about technology and have been studying programming for 6 months, exploring languages ​​such as C, C++, and Python. Currently, I am immersed in the challenging CS50x course at Harvard University. To enhance my skills, I have embarked on the Analysis and Systems Development course at Estácio. Here, I share my projects and learnings as I seek to unite my legal experience with the journey in the technology field.
+##### In addition to my legal journey, I am passionate about technology and have been studying programming for 6 months, exploring languages ​​such as C, C++, and Python. Currently, I am immersed in the challenging CS50x course at Harvard University. To enhance my skills, I have embarked on the Analysis and Systems Development course at Estácio. Here, I share my projects and learnings.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-kassimatis-kullinger-563182232/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gkassimatis/)
