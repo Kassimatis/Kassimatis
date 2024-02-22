@@ -1,5 +1,15 @@
 ### Olá, me chamo Guilherme! 👋
 
+#### Seja bem-vindo ao meu GitHub! 👋
+
+#### Além de minha jornada jurídica, sou apaixonado por tecnologia e estudo programação há 6 meses, explorando linguagens como C, C++, e Python. Atualmente, estou imerso no desafiador curso CS50x da Universidade de Harvard. Para aprimorar minhas habilidades, embarquei no curso de Análise e Desenvolvimento de Sistemas na Estácio.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Hello, my name is Guilherme! 👋
+
+#### Welcome to my GitHub! 👋
+
+##### In addition to my legal journey, I am passionate about technology and have been studying programming for 6 months, exploring languages ​​such as C, C++, and Python. Currently, I am immersed in the challenging CS50x course at Harvard University. To enhance my skills, I have embarked on the Analysis and Systems Development course at Estácio. Here, I share my projects and learnings as I seek to unite my legal experience with the journey in the technology field.
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-kassimatis-kullinger-563182232/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gkassimatis/)
 
