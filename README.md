@@ -6,7 +6,6 @@
 ![Kassimatis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kassimatis&show_icons=true&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kassimatis&hide_progress=true)
 
-
 ### Tecnologias que estudo atualmente:
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
