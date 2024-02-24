@@ -4,6 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gkassimatis/)
 
 ![Kassimatis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kassimatis&show_icons=true&theme=synthwave)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kassimatis&hide_progress=true)
 
 ### Tecnologias que estudo atualmente:
